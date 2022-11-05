@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723370400626",
+    "project_id": "slider-35d2b",
+    "storage_bucket": "slider-35d2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723370400626:android:3c872c79c54dd269a05beb",
+        "android_client_info": {
+          "package_name": "com.example.slider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723370400626-83mep0hfeslvk37v218f7f2crfiqchjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6XgJ57YkTAjyH0jTdan8WtiUcNMPTijI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723370400626-83mep0hfeslvk37v218f7f2crfiqchjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
